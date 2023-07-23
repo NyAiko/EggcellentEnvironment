@@ -4,7 +4,7 @@
 "Eggcellent Environment" is a data science project aimed at predicting how egg production in poultry is affected by various environmental factors. The goal is to identify the key factors that influence egg production and build a predictive model to understand their impact.
 
 ## Dataset Used
-The dataset used in this project was sourced from Kaggle and contains relevant information about egg production and its associated environmental variables.
+The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/niharika41298/egg-production-dataset-state-wise-india) and contains relevant information about egg production and its associated environmental variables.
 
 ## Primary Goals
 The primary objectives of the project are:
